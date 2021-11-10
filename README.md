@@ -5,13 +5,13 @@
 
 Term: Fall 2021
 
-+ Team ##
++ Team Group 5
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Ayati-Ghaffari, Arya (aa4663)
+	+ Cook, Kerry (ksc2138)
+	+ Sun, Jialiang (js5951)
+	+ Zhang, Qian (qz2416)
+	+ Zou, Yixuan (yz4004)
 
 + Project summary: In this project, we created ...
 	

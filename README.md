@@ -19,7 +19,7 @@ Term: Fall 2021
 
 Kerry Cook (ksc2138) and Qian Zhang (qz2416): the major contributors of project 3. Kerry and Qian designed the model together. They tried different feature extractors, predictive models, optimizers, learning rate strategies and methods of reduceing overfitting (all of them are mentioned in the appendix) and found the best model structure and values of hyperparameters for model I and II. Kerry and Qian wrote all the codes, comments and explanations in the pdf.
 
-Jialiang Sun managed to provide an idea with CNN for model 1 but compared with the final/main part,  it is denied and begins to follow the main document. Meantime, do a lot of researches, structure the presentation ideas and give the final presentation.
+Jialiang Sun(js5951) managed to provide an idea with CNN for model 1 but compared with the final/main part,  it is denied and begins to follow the main document. Meantime, do a lot of researches, structure the presentation ideas and give the final presentation.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 

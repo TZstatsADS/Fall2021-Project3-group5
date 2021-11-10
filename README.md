@@ -21,6 +21,8 @@ Kerry Cook (ksc2138) and Qian Zhang (qz2416): the major contributors of project 
 
 Jialiang Sun(js5951) managed to provide an idea with CNN for model 1 but compared with the final/main part,  it is denied and begins to follow the main document. Meantime, do a lot of researches, structure the presentation ideas and give the final presentation.
 
+Arya Ayati (aa4663) tried different optimization techniques and hyperparameter tuning to no avail. Performed as a compute unit with faster processing to test different combinaitons quickly.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
